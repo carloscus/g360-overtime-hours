@@ -17,7 +17,7 @@ python -m compileall src
 
 - Stack: python (pip)
 - Tests: sin tests (compileall)
-- ⚠️ Sin verificación automática real: agregá un script `test` (Node) o tests con `pytest` para que el repo sea verificable.
+- ⚠️ Sin suite de tests: agregá tests de comportamiento con `pytest`; compileall solo detecta errores de sintaxis.
 
 ## Instalación
 
