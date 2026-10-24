@@ -1,0 +1,16 @@
+babel==2.18.0
+    # via
+    #   -r requirements.txt
+    #   tkcalendar
+customtkinter==6.0.0
+    # via -r requirements.txt
+darkdetect==0.8.0
+    # via customtkinter
+packaging==26.3
+    # via customtkinter
+pillow==13.0.0
+    # via -r requirements.txt
+tkcalendar==1.6.1
+    # via -r requirements.txt
+xlsxwriter==3.3.0
+    # via -r requirements.txt
