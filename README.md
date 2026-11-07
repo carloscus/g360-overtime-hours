@@ -1,6 +1,6 @@
-# G360 Horas Extras 🚀
+﻿# G360 Overtime Hours 🚀
 
-> Generador de planillas de horas extras en formato Excel corporativo. Forma parte de la familia de microherramientas G360 para gestión de tiempos y planificación.
+> Generador de planillas de Overtime Hours en formato Excel corporativo. Forma parte de la familia de microherramientas G360 para gestión de tiempos y planificación.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
@@ -34,7 +34,7 @@ flowchart TD
 
 ## 📝 Descripción
 
-Aplicación de escritorio (Python + CustomTkinter) que genera archivos Excel profesionales para el registro de horas extras. Incluye un calendario picker intuitivo, gestión de feriados personalizables y formato corporativo con colores diferenciados por tipo de día.
+Aplicación de escritorio (Python + CustomTkinter) que genera archivos Excel profesionales para el registro de Overtime Hours. Incluye un calendario picker intuitivo, gestión de feriados personalizables y formato corporativo con colores diferenciados por tipo de día.
 
 **Tipo**: Desktop App / Generator  
 **Plataforma**: Python 3.13+ (Windows, macOS, Linux)  
@@ -93,7 +93,7 @@ Aplicación de escritorio (Python + CustomTkinter) que genera archivos Excel pro
 ```bash
 # Clonar repositorio
 git clone <repository-url>
-cd g360-Horas_Extras
+cd g360-overtime-hours
 
 # Instalar dependencias
 pip install -r requirements.txt
@@ -138,7 +138,7 @@ Genera el ejecutable en modo `--onedir` con todos los assets empaquetados en `di
 ## 📂 Estructura
 
 ```
-g360-Horas_Extras/
+g360-overtime-hours/
 ├── assets/
 │   └── images/
 │       └── logo-g360.png
@@ -258,3 +258,4 @@ Este proyecto forma parte de la familia de microherramientas **G360** para apoyo
 **Autor**: Carlos Cusi  
 **Desarrollo**: Con asistencia de herramientas de código IA (Vibe Code)  
 **Powered by**: [g360-signature](https://github.com/carloscus/g360-signature)
+

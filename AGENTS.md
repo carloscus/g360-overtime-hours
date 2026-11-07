@@ -1,7 +1,7 @@
 <!-- g360:agents:begin -->
-# AGENTS.md — g360-Horas_Extras
+# AGENTS.md — g360-overtime-hours
 
-Generador de planillas de horas extras en formato Excel corporativo. Forma parte de la familia de microherramientas G360 para gestión de tiempos y planificación
+Generador de planillas de Overtime Hours en formato Excel corporativo. Forma parte de la familia de microherramientas G360 para gestión de tiempos y planificaci
 
 > El bloque entre los markers `g360:agents` lo genera `g360 agents` y se
 > regenera sin perder lo que escribas afuera.
